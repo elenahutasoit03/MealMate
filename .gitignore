@@ -1,0 +1,53 @@
+# Flutter / Dart generated files
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
+.flutter-plugins
+.flutter-plugins-dependencies
+**/doc/api/
+
+# Flutter generated platform files
+/ios/Flutter/.last_build_id
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/flutter_export_environment.sh
+/macos/Flutter/GeneratedPluginRegistrant.swift
+
+# Android local configuration, build output, and signing credentials
+**/local.properties
+**/key.properties
+/android/.gradle/
+/android/app/debug/
+/android/app/profile/
+/android/app/release/
+*.jks
+*.keystore
+*.p12
+*.pem
+
+# IDE and editor settings
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Environment files and local secrets
+.env
+.env.*
+!.env.example
+
+# Logs, temporary files, and operating-system metadata
+*.log
+*.tmp
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+Desktop.ini
+.history/
+
+# Local test/browser profiles (never commit browser data)
+**/chrome-device/
